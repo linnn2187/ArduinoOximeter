@@ -1,1 +1,1 @@
-![avatar](https://github.com/linnn2187/shell-operator/blob/main/ArduinoOximeter%20S__78241794.jpg)
+![avatar](https://github.com/linnn2187/ArduinoOximeter/blob/main/S__78241794.jpg)
